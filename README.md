@@ -1,9 +1,7 @@
-## Lista de Comando para usar no cmd
+# Lista de Comando para usar no cmd
 
 
-## Instalndo Expo
+## Instalando Expo
 
 
-<b>Estalação modo global:</b> 
-
-**negrito** npm install -g expo-cli exp 
+**negrito** Estalação modo global: npm install -g expo-cli exp 

@@ -26,7 +26,7 @@
  *Passo 2º* create-react-app meu-app-react 
  
  
- **Executar a aplicação:**yarn start
+ **Executar a aplicação:** yarn start
 
 ---------------------------------------------------
 

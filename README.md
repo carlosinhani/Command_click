@@ -1,4 +1,4 @@
-# Lista de Comando para usar no Prompt de Comando.
+# Lista de Comando para usar no Prompt de Comando. 👊 ✔️
 
 
 ### Instalando Expo.
@@ -57,3 +57,5 @@
 
 #### OBS: 
 *No browsers Angular vai estar no* **_(localhost:4200)_** *apos ser executado*
+
+

@@ -16,7 +16,7 @@
 
 ---------------------------------------------------
 
-### Istalando React. 
+### Instalando React. 
 
 
 **Criando Projeto React:** 
@@ -26,6 +26,7 @@
  *Passo 2º* create-react-app meu-app-react 
  
  
- **Executar a aplicação:**
+ **Executar a aplicação:**yarn start
 
 ---------------------------------------------------
+

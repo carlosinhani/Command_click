@@ -28,6 +28,6 @@
  
  **Executar a aplicação:** yarn start
 
-####OBS: *No browsers React vai estar no **_(localhos:3000)_** apos ser executado*
+<h4>OBS:</h4> *No browsers React vai estar no **_(localhost:3000)_** apos ser executado*
 ---------------------------------------------------
 

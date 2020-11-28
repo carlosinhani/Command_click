@@ -12,17 +12,20 @@
 
 
 
-**Ininciando o Projeto:** expo start
+**Executar a aplicação:** expo start
 
 ---------------------------------------------------
 
 ### Istalando React. 
 
-______________
+
 **Criando Projeto React:** 
 
  *Passo 1º* npm install -g create-react-app
  
  *Passo 2º* create-react-app meu-app-react 
  
+ 
+ **Executar a aplicação:**
 
+---------------------------------------------------

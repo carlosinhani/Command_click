@@ -42,7 +42,11 @@
 ##### Obs:
  Algumas configurações específicas que tem ser feitas dentro do Android studios recomendo ver a documentação ("https://reactnative.dev/docs/environment-setup")
  
- **Instalar React Native cli modo global:** npm install -g react-native-cli
+**Instalar React Native cli modo global:** npm install -g react-native-cli
  
- *Verificar a versão estalada:* *react-native -v*
+*Verificar a versão estalada:* *react-native -v*
+ 
+**Criando um Projeto:** npx react-native init nome do projeto
+
+**Executar a aplicação:** npx react-native start ou npx react-native run-android
 

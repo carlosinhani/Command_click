@@ -33,3 +33,10 @@
 
 ---------------------------------------------------
 
+### Istalando React Native.
+
+
+**Instalar Chocolatey:** choco install -y nodejs.install openjdk8
+
+**Instalar Android Studio:** ("https://developer.android.com/studio")
+

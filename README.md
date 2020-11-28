@@ -1,10 +1,10 @@
-# Lista de Comando para usar no cmd
+# Lista de Comando para usar no cmd.
 
 
-### Instalando Expo
+### Instalando Expo.
 
 
-**Estalação modo global:** npm install -g expo-cli exp 
+**Estalação expo modo global:** npm install -g expo-cli exp 
 
 
 
@@ -13,3 +13,16 @@
 
 
 **Ininciando o Projeto:** expo start
+
+---------------------------------------------------
+
+### Istalando React. 
+
+______________
+**Criando Projeto React:** 
+
+ *Passo 1º* npm install -g create-react-app
+ 
+ *Passo 2º* create-react-app meu-app-react 
+ 
+

@@ -44,5 +44,5 @@
  
  **Instalar React Native cli modo global:** npm install -g react-native-cli
  
- **_Verificar a versão estalada:_** *react-native -v*
+ *Verificar a versão estalada:* *react-native -v*
 

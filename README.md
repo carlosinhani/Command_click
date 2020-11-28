@@ -28,7 +28,7 @@
  
  **Executar a aplicação:** yarn start
 
-###OBS: 
+#### OBS: 
 *No browsers React vai estar no* **_(localhost:3000)_** *apos ser executado*
 
 ---------------------------------------------------
